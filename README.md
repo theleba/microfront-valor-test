@@ -4,7 +4,7 @@
 
 This project was created as a **fullstack test** for a position at **Valor Software**. The goal is to demonstrate skills in modern frontend architecture, microfrontend development, and integration with external APIs.
 
-[Live demo]()
+[Live demo](https://let-cia-barbosa-117-host-app-microfront-valor-tes-beaf8acc5-ze.zephyrcloud.app/)
 
 
 ---
